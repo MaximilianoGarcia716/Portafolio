@@ -3,4 +3,6 @@ Buenos días, mi nombre es Maximiliano Garcia Giron, soy Ingeniero en Mecatróni
 
 Tambien puedes visitarme en [Linkedin](https://www.linkedin.com/in/maximiliano-garcia-giron-01a9251ba/) y ver mi Curriculum Vitae.
 
+Además de ser hispanohablante nativo tengo certificado el nivel [C2 de inglés](https://efset.org/cert/wq7khc).
+
 A continuación se presenta un resumen de los proyectos que he desarrollado, cada uno con tiene a su vez su propio repositorio donde pueden verse en más detalle, incluyendo código.
