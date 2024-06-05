@@ -6,3 +6,7 @@ Tambien puedes visitarme en [Linkedin](https://www.linkedin.com/in/maximiliano-g
 Además de ser hispanohablante nativo tengo certificado el nivel [C2 de inglés](https://efset.org/cert/wq7khc).
 
 A continuación se presenta un resumen de los proyectos que he desarrollado, cada uno con tiene a su vez su propio repositorio donde pueden verse en más detalle, incluyendo código.
+
+# Robot holonómico diferencial de exploración para busqueda y rescate
+
+Este proyecto consiste en un robot de tipo holonómico diferencial de tres motores, el robot posee una inteligencia artificial de tipo Tensorflow entrenada para reconocer 5 señales de peligro, (Biológico, Corrosivo, Inflamable, Radioactivo y Tóxico), además posee un sistema de navegación odométrico/inercial utilizando filtro de Kalman para integrar ambos sensores. Finalmente la interfaz muestra el estado del robot, la cámara con la identificación de Tensorflow y un mapa donde se muestra el recorrido del robot y además pueden colocarse señales en dicho mapa para ubicar ciertos puntos de interés. Dicha interfaz está diseñada para tomar la consigna de un mando tipo Xbox para controlar el movimiento del robot y las funciones de la interfaz.
