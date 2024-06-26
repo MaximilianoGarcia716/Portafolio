@@ -25,7 +25,7 @@ El repositorio completo puede verse [aquí](https://github.com/MaximilianoGarcia
 
 # Automata de grúa portuaria
 
-Ese proyecto fué desarrollado en conjunto con otro alumno de la facultad, [(Jonathan Obredor)](https://github.com/jonathan-obredor), consiste en un autómata de control para una grúa de tipo pórtico implementado en una simulación de PLC utilizando grafos y texto estructurado según al estándar de programación IEC61131, posee un control de tres niveles, siendo estos seguridad, control supervisor y control de movimiento para el actuador de izaje y movimiento del carro, además se agregó un control de balanceo para la carga y se realiza una simulación en el propio PLC del sistema físico. Los resultados de dicha simulación son enviados por OPC UA a la terminal de Matlab donde se muestra en la interfaz.
+Ese proyecto fué desarrollado en conjunto con otro alumno de la facultad [(Jonathan Obredor)](https://github.com/jonathan-obredor), consiste en un autómata de control para una grúa de tipo pórtico implementado en una simulación de PLC utilizando grafos y texto estructurado según al estándar de programación IEC61131, posee un control de tres niveles, siendo estos seguridad, control supervisor y control de movimiento para el actuador de izaje y movimiento del carro, además se agregó un control de balanceo para la carga y se realiza una simulación en el propio PLC del sistema físico. Los resultados de dicha simulación son enviados por OPC UA a la terminal de Matlab donde se muestra en la interfaz.
 
 ![Image](https://raw.githubusercontent.com/MaximilianoGarcia716/Portafolio/main/Imagenes/04.jpg)
 
