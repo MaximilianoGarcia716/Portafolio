@@ -5,7 +5,7 @@ Tambien puedes visitarme en [Linkedin](https://www.linkedin.com/in/maximiliano-g
 
 Además de ser hispanohablante nativo tengo certificado el nivel [C2 de inglés](https://efset.org/cert/wq7khc).
 
-A continuación se presenta un resumen de los proyectos que he desarrollado y en los que he participado, cada uno con tiene a su vez su propio repositorio donde pueden verse en más detalle, incluyendo código.
+A continuación se presenta un resumen de los proyectos que he desarrollado sea en solitario o en conjunto, cada uno con tiene a su vez su propio repositorio donde pueden verse en más detalle, incluyendo código.
 
 # Robot holonómico diferencial de exploración para busqueda y rescate
 
@@ -25,7 +25,7 @@ El repositorio completo puede verse [aquí](https://github.com/MaximilianoGarcia
 
 # Automata de grúa portuaria
 
-Ese proyecto consiste en un autómata de control para una grúa de tipo pórtico implementado en una simulación de PLC utilizando grafos y texto estructurado según al estándar de programación IEC61131, posee un control de tres niveles, siendo estos seguridad, control supervisor y control de movimiento para el actuador de izaje y movimiento del carro, además se agregó un control de balanceo para la carga y se realiza una simulación en el propio PLC del sistema físico. Los resultados de dicha simulación son enviados por OPC UA a la terminal de Matlab donde se muestra en la interfaz.
+Ese proyecto fué desarrollado en conjunto con otro alumno de la facultad, consiste en un autómata de control para una grúa de tipo pórtico implementado en una simulación de PLC utilizando grafos y texto estructurado según al estándar de programación IEC61131, posee un control de tres niveles, siendo estos seguridad, control supervisor y control de movimiento para el actuador de izaje y movimiento del carro, además se agregó un control de balanceo para la carga y se realiza una simulación en el propio PLC del sistema físico. Los resultados de dicha simulación son enviados por OPC UA a la terminal de Matlab donde se muestra en la interfaz.
 
 ![Image](https://raw.githubusercontent.com/MaximilianoGarcia716/Portafolio/main/Imagenes/04.jpg)
 
