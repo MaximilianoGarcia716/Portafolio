@@ -5,7 +5,7 @@ Tambien puedes visitarme en [Linkedin](https://www.linkedin.com/in/maximiliano-g
 
 Además de ser hispanohablante nativo tengo certificado el nivel [C2 de inglés](https://efset.org/cert/wq7khc).
 
-A continuación se presenta un resumen de los proyectos que he desarrollado, cada uno con tiene a su vez su propio repositorio donde pueden verse en más detalle, incluyendo código.
+A continuación se presenta un resumen de los proyectos que he desarrollado y en los que he participado, cada uno con tiene a su vez su propio repositorio donde pueden verse en más detalle, incluyendo código.
 
 # Robot holonómico diferencial de exploración para busqueda y rescate
 
