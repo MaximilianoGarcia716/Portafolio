@@ -13,7 +13,7 @@ Este proyecto consiste en un robot de tipo holonómico diferencial de tres motor
 
 ![Image](https://raw.githubusercontent.com/MaximilianoGarcia716/Portafolio/main/Imagenes/03.jpg)
 
-El robot posee una inteligencia artificial de tipo Tensorflow entrenada para reconocer 5 señales de peligro:
+El robot posee una inteligencia artificial de tipo Tensorflow entrenada para reconocer 5 señales de peligro.
 
 ![Image](https://raw.githubusercontent.com/MaximilianoGarcia716/Portafolio/main/Imagenes/01.jpg)
 
@@ -21,4 +21,12 @@ Además posee un sistema de navegación odométrico/inercial utilizando filtro d
 
 ![Image](https://raw.githubusercontent.com/MaximilianoGarcia716/Portafolio/main/Imagenes/02.jpg)
 
-El repositorio completo puede verse [aquí](https://github.com/MaximilianoGarcia716/Proyecto-Final-de-Estudios)
+El repositorio completo puede verse [aquí](https://github.com/MaximilianoGarcia716/Proyecto-Final-de-Estudios).
+
+# Automata de grúa portuaria
+
+Ese proyecto consiste en un autómata de control para una grúa de tipo pórtico implementado en una simulación de PLC utilizando grafos y texto estructurado según al estándar de programación IEC61131, posee un control de tres niveles, siendo estos seguridad, control supervisor y control de movimiento para el actuador de izaje y movimiento del carro, además se agregó un control de balanceo para la carga y se realiza una simulación en el propio PLC del sistema físico. Los resultados de dicha simulación son enviados por OPC UA a la terminal de Matlab donde se muestra en la interfaz.
+
+![Image](https://raw.githubusercontent.com/MaximilianoGarcia716/Portafolio/main/Imagenes/04.jpg)
+
+El repositorio completo puede verse [aquí](https://github.com/MaximilianoGarcia716/Automata-de-grua-portuaria).
