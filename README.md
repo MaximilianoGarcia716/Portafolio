@@ -30,3 +30,19 @@ Ese proyecto fué desarrollado en conjunto con otro alumno de la facultad ([Jona
 ![Image](https://raw.githubusercontent.com/MaximilianoGarcia716/Portafolio/main/Imagenes/04.jpg)
 
 El repositorio completo puede verse [aquí](https://github.com/MaximilianoGarcia716/Automata-de-grua-portuaria).
+
+#Cámara de medición de CO2 para respiración de suelos
+
+Este proyecto fué desarrollado en conjunto con los alumnos Santiago Urigüen, Fabricio Cano y Mauricio Martínez, además de los ingenieros José Nicolás Martín y Fernando Castro de la Facultad de Ciencias Agrarias, dicho proyecto consta de una cámara estanca con sensores de dióxido de carbono SCD41 los cuales miden el CO2 liberado por una muestra tratada de suelo con el objetivo de medir la actividad microbiana de dicha muestra.
+
+![Image](https://raw.githubusercontent.com/GenericLab/CO2-soil-respiration-chamber/main/hardware/WEMOS-lolin32_Multiplexing_SCD41%20schematics/Soil%20Chamber.jpg)
+
+Dicho sensor se multiplexa, permitiendo hasta 4 sensores en simultáneo, sus datos posteriormente son procesados mediante un Wemos Lolin32 Lite para posteriormente ser enviados a un servidor de Thingspeak, además de ser mostrados en una pantalla LED. El gabinete que contiene lo anteriormente nombrado además posee un boton de calibración para calibrar los sensores antes de su uso.
+
+![Image](https://raw.githubusercontent.com/GenericLab/CO2-soil-respiration-chamber/main/hardware/WEMOS-lolin32_Multiplexing_SCD41%20schematics/Soil%20Chamber%20Cabinet.jpg)
+
+![Image](https://raw.githubusercontent.com/GenericLab/CO2-soil-respiration-chamber/main/hardware/WEMOS-lolin32_Multiplexing_SCD41%20schematics/Soil%20Chamber%20Cabinet%20with%20conections.jpeg)
+
+![Image](https://raw.githubusercontent.com/GenericLab/CO2-soil-respiration-chamber/main/hardware/WEMOS-lolin32_Multiplexing_SCD41%20schematics/Cabinet%20while%20Measuring.jpeg)
+
+El repositorio puede encontrarse [aquí](https://github.com/GenericLab/CO2-soil-respiration-chamber/tree/main/software/ESP32-S2/WEMOS-lolin32_Multiplexing_SCD41), nótese que es parte de un repositorio mayor, debido a que existen diversas iteraciones del proyecto, además se encuentra en inglés debido a que es un proyecto de ciencia y tecnología abierta.
