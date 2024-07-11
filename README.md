@@ -31,7 +31,7 @@ Ese proyecto fué desarrollado en conjunto con otro alumno de la facultad ([Jona
 
 El repositorio completo puede verse [aquí](https://github.com/MaximilianoGarcia716/Automata-de-grua-portuaria).
 
-#Cámara de medición de CO2 para respiración de suelos
+# Cámara de medición de CO2 para respiración de suelos
 
 Este proyecto fué desarrollado en conjunto con los alumnos Santiago Urigüen, Fabricio Cano y Mauricio Martínez, además de los ingenieros José Nicolás Martín y Fernando Castro de la Facultad de Ciencias Agrarias, dicho proyecto consta de una cámara estanca con sensores de dióxido de carbono SCD41 los cuales miden el CO2 liberado por una muestra tratada de suelo con el objetivo de medir la actividad microbiana de dicha muestra.
 
