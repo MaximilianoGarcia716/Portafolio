@@ -58,3 +58,13 @@ Finalmente el proyectó culminó con el estudio de un programa de generación de
 ![Image](https://raw.githubusercontent.com/MaximilianoGarcia716/Portafolio/main/Imagenes/06.jpg)
 
 El repositorio completo puede verse [aquí](https://github.com/MaximilianoGarcia716/Cinematica-y-soldadura-ABB-IRB-140).
+
+# Simulador de memoria RAM con C++ y SDL2
+
+Este proyecto se realizó en conjunto con las alumnas Araceli Arteaga y Stefanía Arias de la Facultad de Ingeniería, consistió en el modelado de una memoria RAM, la cual puede ser secuencial o aleatoria en cuanto a la ubicación de los procesos, dicha memoria puede ser de 512 o 1024 espacios y contiene procesos y subprocesos simulados mediante memoria de código, pila y datos. Mediante multithreading cada proceso puede cerrar a sus subprocesos y cerrarse a si mismo, eliminándose de la lista de procesos activos y liberando espacio en la memoria. Todo lo anterior es graficado mediante las librería de SDL2 para C++.
+
+![Image](https://raw.githubusercontent.com/MaximilianoGarcia716/Portafolio/main/Imagenes/07.jpg)
+
+![Image](https://raw.githubusercontent.com/MaximilianoGarcia716/Portafolio/main/Imagenes/08.jpg)
+
+El repositorio completo puede verse [aquí](https://github.com/MaximilianoGarcia716/Simulador-RAM).
