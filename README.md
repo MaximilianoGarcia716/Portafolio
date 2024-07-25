@@ -68,3 +68,21 @@ Este proyecto se realizó en conjunto con las alumnas Araceli Arteaga y Stefaní
 ![Image](https://raw.githubusercontent.com/MaximilianoGarcia716/Portafolio/main/Imagenes/08.jpg)
 
 El repositorio completo puede verse [aquí](https://github.com/MaximilianoGarcia716/Simulador-RAM).
+
+**Table of content:**
+- [Hello World](#item-one)
+- [First Item](#item-two)
+- [Second Item](#item-three)
+
+<!-- headings -->
+<a id="item-one"></a>
+### Hello World
+Hello world content goes here
+
+<a id="item-two"></a>
+### First Item
+First item content goes here
+
+<a id="item-three"></a>
+### Second Item
+Second item content goes here
