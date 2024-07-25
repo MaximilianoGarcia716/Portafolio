@@ -14,6 +14,24 @@ A continuación se presenta un resumen de los proyectos que he desarrollado sea 
 - [Generación de trayectorias para robot ABB IRB 140 para soldadura](#Item4)
 - [Simulador de memoria RAM con C++ y SDL2](#Item5)
 
+# Table of contents
+1. [Introduction](#introduction)
+2. [Some paragraph](#paragraph1)
+    1. [Sub paragraph](#subparagraph1)
+3. [Another paragraph](#paragraph2)
+
+## This is the introduction <a name="introduction"></a>
+Some introduction text, formatted in heading 2 style
+
+## Some paragraph <a name="paragraph1"></a>
+The first paragraph text
+
+### Sub paragraph <a name="subparagraph1"></a>
+This is a sub paragraph, formatted in heading 3 style
+
+## Another paragraph <a name="paragraph2"></a>
+The second paragraph text
+
 # Robot holonómico diferencial de exploración para busqueda y rescate [](#){name=Item1}
 
 Este proyecto consiste en un robot de tipo holonómico diferencial de tres motores.
