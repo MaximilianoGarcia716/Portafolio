@@ -25,7 +25,7 @@ El repositorio completo puede verse [aquí](https://github.com/MaximilianoGarcia
 
 # Automata de grúa portuaria
 
-Ese proyecto fué desarrollado en conjunto con otro alumno de la facultad ([Jonathan Obredor](https://github.com/jonathan-obredor)), consiste en un autómata de control para una grúa de tipo pórtico implementado en una simulación de PLC utilizando grafos y texto estructurado según al estándar de programación IEC61131, posee un control de tres niveles, siendo estos seguridad, control supervisor y control de movimiento para el actuador de izaje y movimiento del carro, además se agregó un control de balanceo para la carga y se realiza una simulación en el propio PLC del sistema físico. Los resultados de dicha simulación son enviados por OPC UA a la terminal de Matlab donde se muestra en la interfaz.
+Ese proyecto fué desarrollado en conjunto con otro alumno de la Facultad de Ingeniería([Jonathan Obredor](https://github.com/jonathan-obredor)), consiste en un autómata de control para una grúa de tipo pórtico implementado en una simulación de PLC utilizando grafos y texto estructurado según al estándar de programación IEC61131, posee un control de tres niveles, siendo estos seguridad, control supervisor y control de movimiento para el actuador de izaje y movimiento del carro, además se agregó un control de balanceo para la carga y se realiza una simulación en el propio PLC del sistema físico. Los resultados de dicha simulación son enviados por OPC UA a la terminal de Matlab donde se muestra en la interfaz.
 
 ![Image](https://raw.githubusercontent.com/MaximilianoGarcia716/Portafolio/main/Imagenes/04.jpg)
 
@@ -46,3 +46,15 @@ Dicho sensor se multiplexa, permitiendo hasta 4 sensores en simultáneo, sus dat
 ![Image](https://raw.githubusercontent.com/GenericLab/CO2-soil-respiration-chamber/main/hardware/WEMOS-lolin32_Multiplexing_SCD41%20schematics/Cabinet%20while%20Measuring.jpeg)
 
 El repositorio puede encontrarse [aquí](https://github.com/GenericLab/CO2-soil-respiration-chamber/tree/main/software/ESP32-S2/WEMOS-lolin32_Multiplexing_SCD41), nótese que es parte de un repositorio mayor, debido a que existen diversas iteraciones del proyecto, además se encuentra en inglés debido a que es un proyecto de ciencia y tecnología abierta.
+
+# Generación de trayectorias para robot ABB IRB 140 para soldadura
+
+Este proyecto se realizó en conjunto con el alumno William Alfaro de la Facultad de ingeniería, consistió en el estudio cinemático de un robot ABB IRB 140 de 6 Grados de Libertad, incluyendo desarrollo de su cinemática directa e inversa, estudio de límites articulares y espacio de trabajo, incluyendo en todos los casos la herramienta de soldadura por arco PKI 300.
+
+![Image](https://raw.githubusercontent.com/MaximilianoGarcia716/Portafolio/main/Imagenes/05.jpg)
+
+Finalmente el proyectó culminó con el estudio de un programa de generación de trayectorias para soldaduras con implementación con el toolbox Robotics de Peter Corke.
+
+![Image](https://raw.githubusercontent.com/MaximilianoGarcia716/Portafolio/main/Imagenes/06.jpg)
+
+El repositorio completo puede verse [aquí](https://github.com/MaximilianoGarcia716/Cinematica-y-soldadura-ABB-IRB-140).
