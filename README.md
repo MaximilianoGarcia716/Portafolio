@@ -14,7 +14,7 @@ A continuación se presenta un resumen de los proyectos que he desarrollado sea 
 - [Generación de trayectorias para robot ABB IRB 140 para soldadura](#Item4)
 - [Simulador de memoria RAM con C++ y SDL2](#Item5)
 
-# <a id="Item1"></a> Robot holonómico diferencial de exploración para busqueda y rescate
+## <a id="Item1"></a> Robot holonómico diferencial de exploración para busqueda y rescate
 
 Este proyecto consiste en un robot de tipo holonómico diferencial de tres motores.
 
