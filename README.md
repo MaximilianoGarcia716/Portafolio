@@ -14,7 +14,8 @@ A continuación se presenta un resumen de los proyectos que he desarrollado sea 
 - [Generación de trayectorias para robot ABB IRB 140 para soldadura](#Item4)
 - [Simulador de memoria RAM con C++ y SDL2](#Item5)
 
-## <a id="Item1"></a> Robot holonómico diferencial de exploración para busqueda y rescate
+<a id="Item1"></a>
+# Robot holonómico diferencial de exploración para busqueda y rescate
 
 Este proyecto consiste en un robot de tipo holonómico diferencial de tres motores.
 
@@ -30,8 +31,8 @@ Además posee un sistema de navegación odométrico/inercial utilizando filtro d
 
 El repositorio completo puede verse [aquí](https://github.com/MaximilianoGarcia716/Proyecto-Final-de-Estudios).
 
-# Automata de grúa portuaria
 <a id="Item2"></a>
+# Automata de grúa portuaria
 
 Ese proyecto fué desarrollado en conjunto con otro alumno de la Facultad de Ingeniería([Jonathan Obredor](https://github.com/jonathan-obredor)), consiste en un autómata de control para una grúa de tipo pórtico implementado en una simulación de PLC utilizando grafos y texto estructurado según al estándar de programación IEC61131, posee un control de tres niveles, siendo estos seguridad, control supervisor y control de movimiento para el actuador de izaje y movimiento del carro, además se agregó un control de balanceo para la carga y se realiza una simulación en el propio PLC del sistema físico. Los resultados de dicha simulación son enviados por OPC UA a la terminal de Matlab donde se muestra en la interfaz.
 
@@ -39,8 +40,8 @@ Ese proyecto fué desarrollado en conjunto con otro alumno de la Facultad de Ing
 
 El repositorio completo puede verse [aquí](https://github.com/MaximilianoGarcia716/Automata-de-grua-portuaria).
 
-# Cámara de medición de CO2 para respiración de suelos
 <a id="Item3"></a>
+# Cámara de medición de CO2 para respiración de suelos
 
 Este proyecto fué desarrollado en conjunto con los alumnos [Santiago Urigüen](https://github.com/Santi-Uriguen), Fabricio Cano y [Mauricio Martínez](https://github.com/MauriM2023), además de los ingenieros José Nicolás Martín y [Fernando Castro](https://github.com/nanocastro) de la Facultad de Ciencias Agrarias, dicho proyecto consta de una cámara estanca con sensores de dióxido de carbono SCD41 los cuales miden el CO2 liberado por una muestra tratada de suelo con el objetivo de medir la actividad microbiana de dicha muestra. Además dichos sensores posee la capacidad de medir temperatura y humedad.
 
@@ -56,8 +57,8 @@ Dicho sensor se multiplexa, permitiendo hasta 4 sensores en simultáneo, sus dat
 
 El repositorio puede encontrarse [aquí](https://github.com/GenericLab/CO2-soil-respiration-chamber/tree/main/software/ESP32-S2/WEMOS-lolin32_Multiplexing_SCD41), nótese que es parte de un repositorio mayor, debido a que existen diversas iteraciones del proyecto, además se encuentra en inglés debido a que es un proyecto de ciencia y tecnología abierta.
 
-# Generación de trayectorias para robot ABB IRB 140 para soldadura
 <a id="Item4"></a>
+# Generación de trayectorias para robot ABB IRB 140 para soldadura
 
 Este proyecto se realizó en conjunto con el alumno William Alfaro de la Facultad de ingeniería, consistió en el estudio cinemático de un robot ABB IRB 140 de 6 Grados de Libertad, incluyendo desarrollo de su cinemática directa e inversa, estudio de límites articulares y espacio de trabajo, incluyendo en todos los casos la herramienta de soldadura por arco PKI 300.
 
@@ -69,8 +70,8 @@ Finalmente el proyectó culminó con el estudio de un programa de generación de
 
 El repositorio completo puede verse [aquí](https://github.com/MaximilianoGarcia716/Cinematica-y-soldadura-ABB-IRB-140).
 
-# Simulador de memoria RAM con C++ y SDL2
 <a id="Item5"></a>
+# Simulador de memoria RAM con C++ y SDL2
 
 Este proyecto se realizó en conjunto con las alumnas Araceli Arteaga y Stefanía Arias de la Facultad de Ingeniería, consistió en el modelado de una memoria RAM, la cual puede ser secuencial o aleatoria en cuanto a la ubicación de los procesos, dicha memoria puede ser de 512 o 1024 espacios y contiene procesos y subprocesos simulados mediante memoria de código, pila y datos. Mediante multithreading cada proceso puede cerrar a sus subprocesos y cerrarse a si mismo, eliminándose de la lista de procesos activos y liberando espacio en la memoria. Todo lo anterior es graficado mediante las librería de SDL2 para C++.
 
