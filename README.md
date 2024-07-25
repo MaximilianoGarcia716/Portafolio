@@ -7,15 +7,15 @@ Además de ser hispanohablante nativo tengo certificado el nivel [C2 de inglés]
 
 A continuación se presenta un resumen de los proyectos que he desarrollado sea en solitario o en conjunto, cada uno con tiene a su vez su propio repositorio donde pueden verse en más detalle, incluyendo código.
 
-#Indice:
+# Indice:
 - [Robot holonómico diferencial de exploración para busqueda y rescate](#Item1)
 - [Automata de grúa portuaria](#Item2)
 - [Cámara de medición de CO2 para respiración de suelos](#Item3)
 - [Generación de trayectorias para robot ABB IRB 140 para soldadura](#Item4)
 - [Simulador de memoria RAM con C++ y SDL2](#Item5)
 
-# Robot holonómico diferencial de exploración para busqueda y rescate
 <a id="Item1"></a>
+# Robot holonómico diferencial de exploración para busqueda y rescate
 
 Este proyecto consiste en un robot de tipo holonómico diferencial de tres motores.
 
