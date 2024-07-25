@@ -7,6 +7,25 @@ Además de ser hispanohablante nativo tengo certificado el nivel [C2 de inglés]
 
 A continuación se presenta un resumen de los proyectos que he desarrollado sea en solitario o en conjunto, cada uno con tiene a su vez su propio repositorio donde pueden verse en más detalle, incluyendo código.
 
+**Table of content:**
+- [Hello World](#1)
+- [First Item](#2)
+- [Second Item](#3)
+
+<!-- headings -->
+<a id="1"></a>
+### Hello World
+Hello world content goes here
+
+<a id="2"></a>
+### First Item
+First item content goes here
+
+<a id="3"></a>
+### Second Item
+Second item content goes here
+
+
 # Robot holonómico diferencial de exploración para busqueda y rescate
 
 Este proyecto consiste en un robot de tipo holonómico diferencial de tres motores.
@@ -68,21 +87,3 @@ Este proyecto se realizó en conjunto con las alumnas Araceli Arteaga y Stefaní
 ![Image](https://raw.githubusercontent.com/MaximilianoGarcia716/Portafolio/main/Imagenes/08.jpg)
 
 El repositorio completo puede verse [aquí](https://github.com/MaximilianoGarcia716/Simulador-RAM).
-
-**Table of content:**
-- [Hello World](#item-one)
-- [First Item](#item-two)
-- [Second Item](#item-three)
-
-<!-- headings -->
-<a id="item-one"></a>
-### Hello World
-Hello world content goes here
-
-<a id="item-two"></a>
-### First Item
-First item content goes here
-
-<a id="item-three"></a>
-### Second Item
-Second item content goes here
