@@ -1,4 +1,4 @@
-English version [here](https://github.com/MaximilianoGarcia716/Portfolio/tree/main)
+English version [here](https://github.com/MaximilianoGarcia716/Portfolio/tree/main).
 # Presentación
 ¡Saludos!, mi nombre es Maximiliano Garcia Giron (sin acentos), soy Ingeniero en Mecatrónica egresado de la Universidad Nacional de Cuyo y este es mi portafolio profesional. Como podrá observarse al revisar mis proyectos estudiantiles y laborales, la característica que más me representa es la curiosidad, unida a unos grandes deseos de continuar aprendiendo, experimentando y desarrollando la creatividad de forma constante, me encuentro interesado en investigación y desarrollo, quedando tambien abierto a trabajos de mantenimiento y de campo.
 
